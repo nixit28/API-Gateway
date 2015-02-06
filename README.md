@@ -8,4 +8,9 @@ UI project is contains the API gateway and RESOURCE part contains the backend AP
 
 I have confrgured the RESOURCE project to run on the 9000 port
 
+For the proxy I have used the embedded Zuul proxy. those configuration can be found in [application.yml]
+
+
+
 [redis]:http//redis.io
+[application.yml]:https://github.com/nixit28/API-Gateway/blob/master/ui/src/main/resources/application.yml
